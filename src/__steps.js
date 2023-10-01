@@ -11,4 +11,6 @@
  * 9.Login.jsx : import getAuth from firebase/auth 
  * 10. create const auth = getAuth(app) 
  * 11. import GoogleAuthProvider and create a new provider
+ * 12. use sigInWithPopUp and pass auth and provider
+ * 13. activate signIn method (google,facebook,github,etc.)
  **/ 
